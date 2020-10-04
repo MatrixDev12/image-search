@@ -11,6 +11,10 @@ img {
   width: 100%;
 }
 
+h1 {
+  text-align: center;
+}
+
 @media (max-width: 1200px) {
   .images {
     column-count: 2;
